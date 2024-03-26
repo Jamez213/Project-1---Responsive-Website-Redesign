@@ -124,8 +124,9 @@ html {
 body { background: var(--white); }
 
 
-
-
+.logo img {
+  filter: brightness(0) invert(1);
+}
 
 /*-----------------------------------*\
  * #REUSED STYLE
